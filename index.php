@@ -16,11 +16,18 @@
     </ul>
 
     <h2>Sobre o projeto</h2>
-<p>
- Este projeto demonstra o desenvolvimento colaborativo
- utilizando Git e GitHub.
- Eu sou o Bernardo Motta, e gosto de my singing monsters. uhuuu
-</p>
+    <p>
+        Este projeto demonstra o desenvolvimento colaborativo
+        utilizando Git e GitHub.
+        Eu sou o Bernardo Motta, e gosto de my singing monsters. uhuuu
+    </p>
+    <h2>Tecnologias utilizadas</h2>
+    <ul>
+        <li>PHP</li>
+        <li>HTML</li>
+        <li>Git</li>
+        <li>GitHub</li>
+    </ul>
 
 </body>
 
