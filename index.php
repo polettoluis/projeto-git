@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>Luis é diferente</h1>
+    <h1>Sistema desenvolvido em PHP</h1>
     <h2>Integrantes</h2>
     <ul>
         <li>Nome do integrante A</li>
