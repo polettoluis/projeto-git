@@ -19,6 +19,7 @@
 <p>
  Este projeto demonstra o desenvolvimento colaborativo
  utilizando Git e GitHub.
+ Eu sou o Bernardo Motta, e gosto de my singing monsters. uhuuu
 </p>
 
 </body>
